@@ -1,0 +1,1 @@
+int getOddCnt(int d[], int oddCnt);

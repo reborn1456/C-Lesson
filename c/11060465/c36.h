@@ -1,0 +1,1 @@
+int getGcd(int su1, int su2);
